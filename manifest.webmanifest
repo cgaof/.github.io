@@ -1,18 +1,1 @@
-{
-  "name": "giimall_pwa",
-  "short_name": "giimall_pwa",
-  "start_url": "/index.html",
-  "display": "standalone",
-  "background_color": "#FFFFFF",
-  "lang": "zh-Hans-CN",
-  "scope": "/",
-  "theme_color": "#60a5fa",
-  "description": "A-Soul 小作文查重",
-  "icons": [
-    {
-      "src": "pwa-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ]
-}
+{"name":"giimall_pwa","short_name":"giimall_pwa","start_url":"/index.html","display":"standalone","background_color":"#FFFFFF","lang":"zh-Hans-CN","scope":"/.github.io/","theme_color":"#60a5fa","description":"A-Soul 小作文查重","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"}]}
